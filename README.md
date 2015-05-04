@@ -21,3 +21,12 @@ email,phone,firstName, lastName
 ```
 
 all fields are required.
+
+
+## Boomtown lead convert
+The csv out of Boomtown had some wierdness (multiple emails and multiple phone numbers).  This util parses that file, takes the first email and phone if multiple, and spits out a csv that can be the input file for csv-client.
+
+Usage:
+```
+node convertBoomtownCsv.js <originalfile> <destinationfile>
+```
