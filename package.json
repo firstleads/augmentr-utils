@@ -1,0 +1,15 @@
+{
+  "name": "augmentr-utilities",
+  "version": "0.0.1",
+  "description": "Augmentr utils",
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "async": "~0.9.0",
+    "fast-csv": "~0.6.0",
+    "superagent": "^1.2.0",
+    "eyes": "^0.1.8"
+  },
+  "devDependencies": {
+  }
+}
