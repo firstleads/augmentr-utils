@@ -1,6 +1,12 @@
 # augmentr-utils
 Some tools and such around the augmentr project that really don't belong in the core thing
 
+## First things first
+```
+npm install
+```
+
+
 ## csv-client
 ```
 HOST=http://augmentr.firstleads.net node csv-client.js <sourcefile> <destinationfile>
