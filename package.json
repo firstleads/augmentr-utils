@@ -6,10 +6,10 @@
   "license": "MIT",
   "dependencies": {
     "async": "~0.9.0",
+    "eyes": "^0.1.8",
     "fast-csv": "~0.6.0",
-    "superagent": "^1.2.0",
-    "eyes": "^0.1.8"
+    "neo4j": "^2.0.0-RC1",
+    "superagent": "^1.2.0"
   },
-  "devDependencies": {
-  }
+  "devDependencies": {}
 }
