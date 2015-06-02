@@ -9,6 +9,8 @@
     "eyes": "^0.1.8",
     "fast-csv": "~0.6.0",
     "neo4j": "^2.0.0-RC1",
+    "sprintf": "^0.1.5",
+    "sprintf-js": "^1.0.2",
     "superagent": "^1.2.0"
   },
   "devDependencies": {}
